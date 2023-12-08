@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Minifig", "Unity.LEGO.Minifig.csproj", "{AAE54095-2422-DF96-0B6D-874350F0BFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Behaviours", "Unity.LEGO.Behaviours.csproj", "{2756DE36-F18B-6B87-CB24-48DF947712E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Game", "Unity.LEGO.Game.csproj", "{4F01E930-EA74-F369-B0B0-EA6891E8EC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.UI", "Unity.LEGO.UI.csproj", "{5D3D9D54-2356-7327-459A-21CC820093F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Utilities", "Unity.LEGO.Utilities.csproj", "{37DF9671-A770-960B-BA3D-7DBDD7DB947F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Gameplay", "Unity.LEGO.Gameplay.csproj", "{D955207C-0551-8DA5-2DF2-3EE379575195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Editor", "Unity.LEGO.Editor.csproj", "{53ECCFD9-7800-996B-04CD-769787B7E736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Tutorials", "Unity.LEGO.Tutorials.csproj", "{AD68E069-0EC0-AE11-00CD-FDAD663DED21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE54095-2422-DF96-0B6D-874350F0BFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE54095-2422-DF96-0B6D-874350F0BFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE54095-2422-DF96-0B6D-874350F0BFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE54095-2422-DF96-0B6D-874350F0BFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2756DE36-F18B-6B87-CB24-48DF947712E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2756DE36-F18B-6B87-CB24-48DF947712E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2756DE36-F18B-6B87-CB24-48DF947712E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2756DE36-F18B-6B87-CB24-48DF947712E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F01E930-EA74-F369-B0B0-EA6891E8EC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F01E930-EA74-F369-B0B0-EA6891E8EC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F01E930-EA74-F369-B0B0-EA6891E8EC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F01E930-EA74-F369-B0B0-EA6891E8EC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3D9D54-2356-7327-459A-21CC820093F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3D9D54-2356-7327-459A-21CC820093F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3D9D54-2356-7327-459A-21CC820093F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3D9D54-2356-7327-459A-21CC820093F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DF9671-A770-960B-BA3D-7DBDD7DB947F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DF9671-A770-960B-BA3D-7DBDD7DB947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DF9671-A770-960B-BA3D-7DBDD7DB947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DF9671-A770-960B-BA3D-7DBDD7DB947F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D955207C-0551-8DA5-2DF2-3EE379575195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D955207C-0551-8DA5-2DF2-3EE379575195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D955207C-0551-8DA5-2DF2-3EE379575195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D955207C-0551-8DA5-2DF2-3EE379575195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ECCFD9-7800-996B-04CD-769787B7E736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ECCFD9-7800-996B-04CD-769787B7E736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ECCFD9-7800-996B-04CD-769787B7E736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ECCFD9-7800-996B-04CD-769787B7E736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD68E069-0EC0-AE11-00CD-FDAD663DED21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD68E069-0EC0-AE11-00CD-FDAD663DED21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD68E069-0EC0-AE11-00CD-FDAD663DED21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD68E069-0EC0-AE11-00CD-FDAD663DED21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
