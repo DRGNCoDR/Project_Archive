@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.obj
+/.bin
+/C# (WinForms)/Character_Editor-master/Character Editor/CharacterEditor/.vs/CharacterEditor/v16
+/C# (WinForms)/Character_Editor-master/Character Editor/CharacterEditor/bin/Debug
+/C# (WinForms)/Character_Editor-master/Character Editor/CharacterEditor/obj/Debug
+/C# (WinForms)/Character_Editor-master/Character Editor/CharacterEditor/obj/Release
